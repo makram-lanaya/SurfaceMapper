@@ -6,7 +6,6 @@ SurfaceMapper is a lightweight Bash-based reconnaissance tool designed for attac
 You must provide a list of subdomains collected using external tools
 
 ## Features
-- Subdomain enumeration
 - Live endpoint detection
 - Open ports & service detection
 - URL & parameter extraction
