@@ -38,3 +38,8 @@ Once you have your subdomains list, run the script by providing: <br>
 ```bash
 ./SurfaceMapper.sh target.com subs.txt
 ``` 
+
+## Disclaimer / Permission
+This tool is intended for educational purposes, bug bounty testing, and authorized security assessments only.<br>
+You must have explicit permission from the owner of any target domain before running this toolkit.<br>
+Unauthorized use may be illegal and is solely your responsibility.
