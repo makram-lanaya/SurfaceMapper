@@ -1,0 +1,1 @@
+Copyright 2026 Makram Lanaya In short: do whatever you want with this project use it, copy it, modify it, publish it, or embed it in your projects without asking for permission or paying royalties.
